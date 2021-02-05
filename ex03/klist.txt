@@ -1,0 +1,5 @@
+Credentials cache: API:AC7F7481-8BB9-4C41-A855-DC2A5E044EB8
+        Principal: lross@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb  1 20:26:38 2021  Feb  2 06:26:29 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
